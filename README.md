@@ -1,0 +1,2 @@
+# AvangerNewsFoundVault.sol
+Foundation VAULT
